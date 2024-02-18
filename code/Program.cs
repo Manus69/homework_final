@@ -22,5 +22,4 @@ class Program
     {
         Console.WriteLine(String.Join(" ", StringFilter.filter(Input.get(args), 3)));
     }
-
 }
