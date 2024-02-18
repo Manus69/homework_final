@@ -1,3 +1,5 @@
 code/obj
 code/bin
 *.csproj
+*.odg
+*.odg#
